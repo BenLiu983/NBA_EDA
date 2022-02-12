@@ -1,6 +1,6 @@
 # NBA_EDA
 
-Exploratory data analyses utilizing Python, NBA stats (https://www.nba.com/stats/), and py_ball API (https://github.com/basketballrelativity/py_ball). 
+NBA data analyses utilizing Python, NBA stats (https://www.nba.com/stats/), and py_ball API (https://github.com/basketballrelativity/py_ball). 
 
 ## 1. Ratings and Pace
 
