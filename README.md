@@ -6,5 +6,8 @@ The following graphs demonstrate the offensive and defensive ratings, along with
 
 <img width="692" alt="ratings" src="https://user-images.githubusercontent.com/64850893/153722242-7692c752-8095-4c5e-8717-498168b37635.png">
 
+* The best teams are located in the lower-right portion of the graph, with higher offensive ratings and lower defensive ratings (Utah, Philadelphia, Phoenix, Los Angeles Clippers, and Milwaukee).
 
+<img width="692" alt="pace" src="https://user-images.githubusercontent.com/64850893/153722262-3c1a9563-4217-42fe-97bd-e445b6cb1dac.png">
 
+* Washington, Milwaukee, and Golden State played at the fastest pace last season.
